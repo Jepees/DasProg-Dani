@@ -1,0 +1,21 @@
+ID,Name,Age,City,Salary,Department,Experience (Years),Performance Score,Gender,Remote Worker
+1,John,25,New York,55000,Engineering,2,85,Male,True
+2,Jane,30,Los Angeles,65000,Marketing,5,90,Female,False
+3,Michael,22,Miami,48000,HR,1,78,Male,True
+4,Emily,27,Chicago,72000,Finance,4,88,Female,False
+5,David,35,Seattle,80000,IT,8,95,Male,True
+6,Sophia,28,Austin,68000,Sales,3,89,Female,True
+7,Chris,31,Denver,60000,Support,6,84,Male,False
+8,Olivia,26,San Francisco,71000,Design,4,87,Female,True
+9,William,29,Boston,59000,Operations,7,86,Male,False
+10,Amelia,24,Portland,54000,Admin,2,80,Female,True
+11,Daniel,33,Dallas,63000,Legal,6,92,Male,False
+12,Hannah,21,San Diego,52000,Procurement,1,79,Female,True
+13,Matthew,32,Houston,61000,Research,5,91,Male,False
+14,Elizabeth,34,Philadelphia,70000,Compliance,8,94,Female,False
+15,James,30,Phoenix,58000,Logistics,4,83,Male,True
+16,Mia,23,Orlando,53000,Training,2,81,Female,True
+17,Alexander,36,Atlanta,82000,Development,10,96,Male,True
+18,Emma,29,Las Vegas,75000,Management,9,93,Female,False
+19,Joshua,28,Detroit,64000,Analytics,6,82,Male,True
+20,Isabella,25,San Jose,56000,Production,3,88,Female,False
