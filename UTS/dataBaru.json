@@ -1,0 +1,38 @@
+[
+    {
+        "name": "border_1",
+        "coordinates": [
+            {
+                "lat": -3.1,
+                "lng": 100.1
+            },
+            {
+                "lat": -5.2,
+                "lng": 100.1
+            },
+            {
+                "lat": 4.2,
+                "lng": 102.1,
+                "others": "yy"
+            }
+        ]
+    },
+    {
+        "name": "border_2",
+        "coordinates": [
+            {
+                "lat": 3.1,
+                "lng": 109.1
+            },
+            {
+                "lat": -3.2,
+                "lng": 120.1
+            },
+            {
+                "lat": 3.2,
+                "lng": 109.1,
+                "others": "xx"
+            }
+        ]
+    }
+]
